@@ -1,4 +1,4 @@
-NAME = osixia/extend-osixia-openldap
+NAME = uc/test-ldap
 VERSION = 0.1.0
 
 .PHONY: all build build-nocache

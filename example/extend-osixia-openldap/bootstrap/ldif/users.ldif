@@ -1,0 +1,41 @@
+version: 1
+
+dn: uid=kirillov,ou=users,dc=ldap,dc=uc,dc=protei,dc=ru
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: uidObject
+cn: Hilarion Kirillov
+sn: Kirillov
+uid: kirillov
+userPassword:: e1NIQX1XNnBoNU1tNVB6OEdnaVVMYlBnekczN21qOWc9
+
+dn: uid=alekseeva,ou=users,dc=ldap,dc=uc,dc=protei,dc=ru
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: uidObject
+cn: Leopold Alekseeva
+sn: Alekseeva
+uid: alekseeva
+userPassword:: e1NIQX1XNnBoNU1tNVB6OEdnaVVMYlBnekczN21qOWc9
+
+dn: uid=lavrova,ou=users,dc=ldap,dc=uc,dc=protei,dc=ru
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: uidObject
+cn: Elizabeth Lavrova
+sn: lavrova
+uid: lavrova
+userPassword:: e1NIQX1XNnBoNU1tNVB6OEdnaVVMYlBnekczN21qOWc9
+
+dn: uid=dubinina,ou=users,dc=ldap,dc=uc,dc=protei,dc=ru
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+objectClass: uidObject
+cn: Efimiya Dubinina
+sn: Dubinina
+uid: dubinina
+userPassword:: e1NIQX1XNnBoNU1tNVB6OEdnaVVMYlBnekczN21qOWc9
